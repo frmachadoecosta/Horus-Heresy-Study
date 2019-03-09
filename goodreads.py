@@ -14,7 +14,7 @@ client = gr.Client(developer_key='OTJH4NwxE8fITsx89D9OA')
 
 serie = client.Series.show('40983') #id of Horus Heresy Series in GoodReads
 
-columns = ['title','author','publication_year','publication_month','average_rating','ratings_count']
+columns = ['title','author','publication_year','average_rating','ratings_count']
 wh40kdf = pd.DataFrame(columns=columns)
 
 
@@ -41,7 +41,6 @@ for bookdict in serie['series_works']['series_work']:
                     'title': info2['title'],
                     'author': info2['author']['name'],
                     'publication_year':nadiv(info['original_publication_year']),
-                    'publication_month':nadiv(info['original_publication_month']),
                     'average_rating': nadiv(info['ratings_sum'],info['ratings_count']),
                     'ratings_count': nadiv(info['ratings_count'])
                 },ignore_index=True)
