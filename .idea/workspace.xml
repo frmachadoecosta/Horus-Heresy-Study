@@ -18,8 +18,8 @@
       <file leaf-file-name="goodreads.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/goodreads.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="43" column="82" selection-start-line="43" selection-start-column="82" selection-end-line="43" selection-end-column="82" />
+            <state relative-caret-position="224">
+              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
               <folding>
                 <element signature="e#213#246#0" expanded="true" />
               </folding>
@@ -147,7 +147,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.6666667" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3278867" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3278867" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32884097" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25479743" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -191,8 +191,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/goodreads.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="43" column="82" selection-start-line="43" selection-start-column="82" selection-end-line="43" selection-end-column="82" />
+        <state relative-caret-position="224">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
           <folding>
             <element signature="e#213#246#0" expanded="true" />
           </folding>
