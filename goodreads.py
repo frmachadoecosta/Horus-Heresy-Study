@@ -18,11 +18,15 @@ wh40kdf = pd.DataFrame(columns=columns)
 
 
 
-def nadiv(p1,p2=1):
+def nadiv(p1,p2=-1):
     if p1 is None or p2 is None:
         return ''
 
     p1,p2 = int(p1), int(p2)
+
+    if p2 == -1:
+        return p1
+
     return round(p1/p2,2)
 
 
