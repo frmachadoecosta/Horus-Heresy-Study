@@ -8,7 +8,7 @@ The analysis itself was caried out in R and is fairly straight foward,
 
 1. Strightly based on average ratings after analysing its distribution on an histogram (visual representation of the selection was made with *ggplot* and is available on [data_analysis_R/Rplot01.png](https://github.com/frmachadoecosta/Horus-Heresy-Study/blob/master/data_analysis_R/Rplot01.png))
 
-2. Adding an extra filter to not consider books that were reviewd under 150 times so as to give a slight edge to more popular books and minimizer outliers in user reviews.
+2. Adding an extra filter to not consider books that were reviewd under 150 times so as to give a slight edge to more popular books and minimize outliers in user reviews.
 
 3. Colleting Dan Abbet's work in the series
 
