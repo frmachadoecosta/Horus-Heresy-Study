@@ -30,6 +30,6 @@ Second and Third filters were added together and cleaned with *dplyr* and book t
 | Wolfsbane                      	|
 
 #### Final Thoughts:
-Really just wanted to see if I could create a dataset from Goodreads because I couldn't find any online, giving me an impartial, although flawed, selection process. The R analysis itself could have been easily done in Python and/or severely shortened but ggplot and dplyr are both packages I wanted hands on experience so I made up excuses to use them here.
+Really just wanted to see if I could create a dataset from Goodreads because I couldn't find any online, giving me an impartial, although flawed, selection process. The R analysis itself could have been easily done in Python and/or severely shortened but ggplot and dplyr are both packages I want hands on experience so I made up excuses to use them here.
 Hope I get to read these books and a couple more from different series on the 40k universe.
 
